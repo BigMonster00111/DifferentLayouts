@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DifferentLayouts</string>
+
+    <array name="list_entries">
+        <item>ONE</item>
+        <item>TWO</item>
+        <item>THREE</item>
+        <item>FOUR</item>
+        <item>FIVE</item>
+        <item>SIX</item>
+        <item>SEVEN</item>
+        <item>EIGHT</item>
+        <item>NINE</item>
+        <item>TEN</item>
+    </array>
+</resources>
